@@ -1,3 +1,5 @@
+-- Teste GitHub
+
 CREATE DATABASE TESTE_CSV; --  Criei uma nova tabela
 
 SELECT * 
